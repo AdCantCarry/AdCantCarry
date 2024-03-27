@@ -1,0 +1,14 @@
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\bin\Debug\net8.0\B4.exe
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\bin\Debug\net8.0\B4.deps.json
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\bin\Debug\net8.0\B4.runtimeconfig.json
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\bin\Debug\net8.0\B4.dll
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\bin\Debug\net8.0\B4.pdb
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\obj\Debug\net8.0\B4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\obj\Debug\net8.0\B4.AssemblyInfoInputs.cache
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\obj\Debug\net8.0\B4.AssemblyInfo.cs
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\obj\Debug\net8.0\B4.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\obj\Debug\net8.0\B4.dll
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\obj\Debug\net8.0\refint\B4.dll
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\obj\Debug\net8.0\B4.pdb
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\obj\Debug\net8.0\B4.genruntimeconfig.cache
+D:\Visual Studio\Ly-thuyet-do-thi\B4\B4\B4\obj\Debug\net8.0\ref\B4.dll
