@@ -1,0 +1,14 @@
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\bin\Debug\net8.0\B7_1.exe
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\bin\Debug\net8.0\B7_1.deps.json
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\bin\Debug\net8.0\B7_1.runtimeconfig.json
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\bin\Debug\net8.0\B7_1.dll
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\bin\Debug\net8.0\B7_1.pdb
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\obj\Debug\net8.0\B7_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\obj\Debug\net8.0\B7_1.AssemblyInfoInputs.cache
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\obj\Debug\net8.0\B7_1.AssemblyInfo.cs
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\obj\Debug\net8.0\B7_1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\obj\Debug\net8.0\B7_1.dll
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\obj\Debug\net8.0\refint\B7_1.dll
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\obj\Debug\net8.0\B7_1.pdb
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\obj\Debug\net8.0\B7_1.genruntimeconfig.cache
+D:\Visual Studio\Ly-thuyet-do-thi\B7\B7\B7_1\obj\Debug\net8.0\ref\B7_1.dll
