@@ -1,0 +1,14 @@
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\bin\Debug\net6.0\B2.exe
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\bin\Debug\net6.0\B2.deps.json
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\bin\Debug\net6.0\B2.runtimeconfig.json
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\bin\Debug\net6.0\B2.dll
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\bin\Debug\net6.0\B2.pdb
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\obj\Debug\net6.0\B2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\obj\Debug\net6.0\B2.AssemblyInfoInputs.cache
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\obj\Debug\net6.0\B2.AssemblyInfo.cs
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\obj\Debug\net6.0\B2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\obj\Debug\net6.0\B2.dll
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\obj\Debug\net6.0\refint\B2.dll
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\obj\Debug\net6.0\B2.pdb
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\obj\Debug\net6.0\B2.genruntimeconfig.cache
+D:\Visual Studio\Lý thuyết đồ thị\B1\B2\obj\Debug\net6.0\ref\B2.dll
